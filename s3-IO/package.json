@@ -1,0 +1,36 @@
+{
+  "name": "s3-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "_balanced-match@1.0.2@balanced-match": "^1.0.2",
+    "_brace-expansion@1.1.11@brace-expansion": "^1.1.11",
+    "_concat-map@0.0.1@concat-map": "^0.0.1",
+    "_fs.realpath@1.0.0@fs.realpath": "^1.0.0",
+    "_glob@7.2.0@glob": "^7.2.0",
+    "_inflight@1.0.6@inflight": "^1.0.6",
+    "_inherits@2.0.4@inherits": "^2.0.4",
+    "_minimatch@3.1.2@minimatch": "^3.1.2",
+    "_once@1.4.0@once": "^1.4.0",
+    "_wrappy@1.0.2@wrappy": "^1.0.2",
+    "_path-is-absolute@1.0.1@path-is-absolute": "^1.0.1",
+    "brace-expansion": "^1.1.11",
+    "concat-map": "^0.0.1",
+    "balanced-match": "^1.0.2",
+    "glob": "^7.2.0",
+    "fs.realpath": "^1.0.0",
+    "inflight": "^1.0.6",
+    "inherits": "^2.0.4",
+    "once": "^1.4.0",
+    "path-is-absolute": "^1.0.1",
+    "minimatch": "^3.1.2",
+    "wrappy": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
